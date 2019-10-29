@@ -1,6 +1,5 @@
 import React from 'react';
-import {View, Text, Animated, Easing} from 'react-native';
-import {colors} from './style';
+import {View, Text, Animated} from 'react-native';
 import BasicSlider from './BasicSlider';
 import PropTypes from 'prop-types';
 import themes from './themes';

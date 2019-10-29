@@ -10,7 +10,6 @@ const sliderContainerStyle = {
 
 const stepLabelStyle = {
   position: 'absolute',
-  //top: 80,
   top: -20,
   left: -20,
   width: 50,
